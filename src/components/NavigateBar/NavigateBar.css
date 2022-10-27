@@ -1,0 +1,18 @@
+.form-wrapper{
+    background: #14147f;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: auto;
+}
+form{
+    height: fit-content;
+    max-width: 400px;
+    padding: 0 20px;
+    display: flex;
+    width: 100%;
+    background-color: white;
+    gap: 45px;
+}
